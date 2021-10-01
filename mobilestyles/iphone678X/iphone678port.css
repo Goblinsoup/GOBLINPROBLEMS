@@ -152,8 +152,8 @@ li{
 .frame{
   position: absolute;
   z-index: -9;
-  width:100%;
-  height:100%;
+  width:99.9%;
+  height:99.9%;
   border:solid 2px white;
   left: 50%;
   top:50%
